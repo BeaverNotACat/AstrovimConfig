@@ -1,5 +1,5 @@
 return {
-  { "xiyaowong/transparent.nvim", enabled = true }
+  -- { "xiyaowong/transparent.nvim", enabled = true }
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
   -- "andweeb/presence.nvim",
